@@ -6,6 +6,7 @@
 
 // We have a dedicated package java.util.regex for Regular Expressions in Java.
 
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 // In this class we will code the Regular Expression for a valid Aadhar Card Number.
@@ -15,5 +16,6 @@ public class Scratch1 {
         Pattern pattern = Pattern.compile("^\\d{4}[ ]\\d{4}[ ]\\d{4}$");
 
         // Step 2: Match the pattern against a sequence of character using the Matcher class.
+        Matcher matcher = pattern.matcher("");
     }
 }
