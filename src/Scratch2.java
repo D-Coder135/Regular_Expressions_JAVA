@@ -30,7 +30,10 @@ public class Scratch2 {
                     "SUCCESS",
                     JOptionPane.INFORMATION_MESSAGE);
         } else {
-
+            JOptionPane.showMessageDialog(null,
+                    "Sorry, the Aadhar Card Number's format is incorrect.",
+                    "FAILURE",
+                    JOptionPane.ERROR_MESSAGE);
         }
     }
 }
