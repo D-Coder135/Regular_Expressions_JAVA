@@ -8,6 +8,7 @@
 // from the end-user using a message Dialog.
 public class Scratch2 {
     public static void main(String[] args) {
+        // Step 1: Use the Pattern class to define a regular expression.
 
     }
 }
