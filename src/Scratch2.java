@@ -29,6 +29,8 @@ public class Scratch2 {
                     "Ok, the Aadhar Card Number's format is correct.",
                     "SUCCESS",
                     JOptionPane.INFORMATION_MESSAGE);
+        } else {
+
         }
     }
 }
