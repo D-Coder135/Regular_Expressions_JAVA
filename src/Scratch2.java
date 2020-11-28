@@ -25,7 +25,10 @@ public class Scratch2 {
         // For matching the test String with the Regular Expression, we have a mathces() method which
         // returns boolean value.
         if (matcher.matches()) {
-
+            JOptionPane.showMessageDialog(null,
+                    "Ok, the Aadhar Card Number's format is correct.",
+                    "SUCCESS",
+                    JOptionPane.INFORMATION_MESSAGE);
         }
     }
 }
