@@ -24,5 +24,8 @@ public class Scratch2 {
 
         // For matching the test String with the Regular Expression, we have a mathces() method which
         // returns boolean value.
+        if (matcher.matches()) {
+
+        }
     }
 }
