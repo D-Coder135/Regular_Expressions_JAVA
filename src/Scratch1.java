@@ -19,7 +19,7 @@ public class Scratch1 {
         String testString = "4567 8975 3256";
         Matcher matcher = pattern.matcher(testString);
 
-        // For matching the test String with the Regular Expression, we have a mathces() method which
+        // For matching the test String with the Regular Expression, we have a matches() method which
         // returns boolean value.
         if (matcher.matches()) {
             System.out.println("The test string passed!");
