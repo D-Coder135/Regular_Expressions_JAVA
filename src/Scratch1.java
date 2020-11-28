@@ -7,9 +7,9 @@
 // We have a dedicated package java.util.regex for Regular Expressions in Java.
 import java.util.regex.Pattern;
 
+// In this class we will code the Regular Expression for a valid Aadhar Card Number.
 public class Scratch1 {
     public static void main(String[] args) {
         // Step 1: Use the Pattern class to define a regular expression.
-
     }
 }
