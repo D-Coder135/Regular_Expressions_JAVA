@@ -6,4 +6,7 @@
 import java.util.regex.Pattern; // We have a dedicated package java.util.regex for Regular Expressions in Java.
 
 public class Scratch1 {
+    public static void main(String[] args) {
+
+    }
 }
