@@ -18,5 +18,8 @@ public class Scratch1 {
         // Step 2: Match the pattern against a sequence of character using the Matcher class.
         String testString = "4567 8975 3256";
         Matcher matcher = pattern.matcher(testString);
+
+        // For matching the test String with the Regular Expression, we have a mathces() method which
+        // returns boolean value.
     }
 }
