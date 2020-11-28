@@ -5,6 +5,7 @@
  */
 
 import javax.swing.*;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 // Same code as in Scratch1.java class but the only difference is in this code we are taking input
@@ -19,9 +20,9 @@ public class Scratch2 {
                 "Please enter your 12 digit aadhar card number: ",
                 "Aadhar Card Number",
                 JOptionPane.PLAIN_MESSAGE);
+        Matcher matcher = pattern.matcher();
 
         // For matching the test String with the Regular Expression, we have a mathces() method which
         // returns boolean value.
-
     }
 }
