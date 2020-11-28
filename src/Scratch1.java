@@ -16,6 +16,7 @@ public class Scratch1 {
         Pattern pattern = Pattern.compile("^\\d{4}[ ]\\d{4}[ ]\\d{4}$");
 
         // Step 2: Match the pattern against a sequence of character using the Matcher class.
-        Matcher matcher = pattern.matcher("");
+        String testString = "4567 8975 3256";
+        Matcher matcher = pattern.matcher();
     }
 }
