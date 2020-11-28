@@ -7,6 +7,7 @@ import java.util.regex.Pattern; // We have a dedicated package java.util.regex f
 
 public class Scratch1 {
     public static void main(String[] args) {
-
+        // Step 1: Use the Pattern class to define a regular expression.
+        
     }
 }
