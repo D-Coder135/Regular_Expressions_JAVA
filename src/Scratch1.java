@@ -24,7 +24,7 @@ public class Scratch1 {
         if (matcher.matches()) {
             System.out.println("The test string passed!");
         } else {
-
+            System.out.println("The test string failed!");
         }
     }
 }
