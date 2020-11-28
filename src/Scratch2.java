@@ -19,5 +19,9 @@ public class Scratch2 {
                 "Please enter your 12 digit aadhar card number: ",
                 "Aadhar Card Number",
                 JOptionPane.PLAIN_MESSAGE);
+
+        // For matching the test String with the Regular Expression, we have a mathces() method which
+        // returns boolean value.
+
     }
 }
