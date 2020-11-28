@@ -23,6 +23,8 @@ public class Scratch1 {
         // returns boolean value.
         if (matcher.matches()) {
             System.out.println("The test string passed!");
+        } else {
+
         }
     }
 }
