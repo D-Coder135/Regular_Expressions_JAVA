@@ -4,6 +4,7 @@
  *  Time: 11:38 PM
  */
 
+import javax.swing.*;
 import java.util.regex.Pattern;
 
 // Same code as in Scratch1.java class but the only difference is in this code we are taking input
@@ -14,6 +15,9 @@ public class Scratch2 {
         Pattern pattern = Pattern.compile("^\\d{4}[ ]\\d{4}[ ]\\d{4}$");
 
         // Step 2: Match the pattern against a sequence of character using the Matcher class.
-
+        String input = JOptionPane.showInputDialog(null,
+                "Please enter your 12 digit aadhar card number: ",
+                "Aadhar Card Number",
+                JOptionPane.PLAIN_MESSAGE);
     }
 }
