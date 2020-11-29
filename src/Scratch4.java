@@ -17,5 +17,10 @@ public class Scratch4 {
 
         // Step 2: Match the pattern against a sequence of characters using the Matcher class.
         Matcher matcher = pattern.matcher("1234 5646 8956");
+
+        /*
+        *  group() method:
+        *  We can obtain a string that will contain the last matching sequence of character from the test string.
+        * */
     }
 }
