@@ -23,6 +23,8 @@ public class Scratch3 {
         * */
         if (matcher.find()) {
             System.out.println("The test string passed!");
+        } else {
+
         }
     }
 }
