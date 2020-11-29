@@ -20,6 +20,7 @@ public class Scratch3 {
         /*
         *  find() method:
         *  This method can match a test string against a pattern even if only subsequences are matched.
+        *  i.e. It will return true if any of the part of the test string matches with the regular expression.
         * */
         if (matcher.find()) {
             System.out.println("The test string passed!");
