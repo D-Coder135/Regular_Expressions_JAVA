@@ -6,6 +6,7 @@
 
 // Same code of Regular Expression as in Scratch2.java class for valid Aadhar Card Number.
 
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Scratch3 {
@@ -14,6 +15,6 @@ public class Scratch3 {
         Pattern pattern = Pattern.compile("\\d{4}");
 
         // Step 2: Match the pattern against a sequence of characters using the Matcher class.
-
+        Matcher matcher = pattern.matcher("");
     }
 }
