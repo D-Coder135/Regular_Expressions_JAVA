@@ -4,6 +4,7 @@
  *  Time: 11:02 PM
  */
 
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 // This code is similar to the code of Scratch4.java class.
@@ -14,6 +15,6 @@ public class Scratch5 {
         Pattern pattern = Pattern.compile("");
 
         // Step 2: Match the pattern against a sequence of characters using the Matcher class.
-
+        Matcher matcher = pattern.matcher("");
     }
 }
