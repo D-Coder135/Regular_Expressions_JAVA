@@ -22,6 +22,8 @@ public class Scratch4 {
         *  group() method:
         *  We can obtain a string that will contain the last matching sequence of character from the test string.
         * */
+
+        // To check how many sequences of the test string matches with the regular expression.
         while (matcher.find()) {
 
         }
