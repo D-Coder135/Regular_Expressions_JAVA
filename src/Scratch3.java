@@ -7,4 +7,7 @@
 // Same code of Regular Expression as in Scratch2.java class for valid Aadhar Card Number.
 
 public class Scratch3 {
+    public static void main(String[] args) {
+
+    }
 }
