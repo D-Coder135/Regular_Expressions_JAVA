@@ -8,6 +8,6 @@
 
 public class Scratch3 {
     public static void main(String[] args) {
-
+        // Step 1: Use the Pattern class to define a regular expression.
     }
 }
