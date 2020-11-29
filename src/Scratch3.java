@@ -4,5 +4,7 @@
  *  Time: 08:25 PM
  */
 
+// Same code of Regular Expression as in Scratch2.java class for valid Aadhar Card Number.
+
 public class Scratch3 {
 }
