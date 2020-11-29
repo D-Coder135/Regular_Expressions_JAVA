@@ -22,7 +22,7 @@ public class Scratch3 {
         *  This method can match a test string against a pattern even if only subsequences are matched.
         * */
         if (matcher.find()) {
-
+            System.out.println("The test string passed!");
         }
     }
 }
