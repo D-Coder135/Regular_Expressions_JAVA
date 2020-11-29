@@ -4,6 +4,8 @@
  *  Time: 08:43 PM
  */
 
-// This code is similar to the code in Scratch1.java class.
+// This code is similar to the code in Scratch3.java class.
+// In this code group() method is described and is used along with the find() method.
+
 public class Scratch4 {
 }
