@@ -4,11 +4,13 @@
  *  Time: 11:02 PM
  */
 
+import java.util.regex.Pattern;
+
 // This code is similar to the code of Scratch4.java class.
 // In this code start() and end() method is described and used along with the find() and group() method.
 public class Scratch5 {
     public static void main(String[] args) {
         // Step 1: Use the Pattern class to define a regular expression.
-
+        Pattern pattern = Pattern.compile("");
     }
 }
