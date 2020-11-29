@@ -25,7 +25,7 @@ public class Scratch5 {
 
         // Loop to check how many sequence of the test string matches the regular expression.
         while (matcher.find()) {
-
+            System.out.println("Match found at: " + matcher.start());
         }
 
     }
