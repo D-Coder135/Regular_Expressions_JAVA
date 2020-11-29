@@ -16,6 +16,6 @@ public class Scratch4 {
         Pattern pattern = Pattern.compile("\\d{4}");
 
         // Step 2: Match the pattern against a sequence of characters using the Matcher class.
-        Matcher matcher = pattern.matcher("");
+        Matcher matcher = pattern.matcher("1234 5646 8956");
     }
 }
