@@ -21,5 +21,8 @@ public class Scratch3 {
         *  find() method:
         *  This method can match a test string against a pattern even if only subsequences are matched.
         * */
+        if (matcher.find()) {
+
+        }
     }
 }
