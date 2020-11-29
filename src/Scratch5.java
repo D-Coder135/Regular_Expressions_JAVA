@@ -27,6 +27,7 @@ public class Scratch5 {
         while (matcher.find()) {
             System.out.println("Match found at: " + matcher.start());
             System.out.println("These characters were matched: " + matcher.group());
+            System.out.println("Match ended at: " + matcher.end());
         }
 
     }
