@@ -26,7 +26,8 @@ public class Scratch4 {
         // To check how many sequences of the test string matches with the regular expression.
         while (matcher.find()) {
             System.out.println("The test string passed!");
-            System.out.println(matcher.group() + " was matched.");
+            System.out.println(matcher.group() + " was matched."); // This will print the sequences that matches
+                                                                   // with the regular expression.
         }
     }
 }
