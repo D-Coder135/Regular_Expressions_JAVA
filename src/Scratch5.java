@@ -12,5 +12,8 @@ public class Scratch5 {
     public static void main(String[] args) {
         // Step 1: Use the Pattern class to define a regular expression.
         Pattern pattern = Pattern.compile("");
+
+        // Step 2: Match the pattern against a sequence of characters using the Matcher class.
+
     }
 }
