@@ -24,6 +24,8 @@ public class Scratch2 {
 
         // For matching the test String with the Regular Expression, we have a matches() method which
         // returns boolean value.
+        // NOTE: The matches() method matches the test string "EXACTLY" with the Regular Expression.
+        // i.e. The test string should match with the Regular Expression line by line (exactly).
         if (matcher.matches()) {
             JOptionPane.showMessageDialog(null,
                     "Ok, the Aadhar Card Number's format is correct.",
