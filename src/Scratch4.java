@@ -8,4 +8,7 @@
 // In this code group() method is described and is used along with the find() method.
 
 public class Scratch4 {
+    public static void main(String[] args) {
+
+    }
 }
