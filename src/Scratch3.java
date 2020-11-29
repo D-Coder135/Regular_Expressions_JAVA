@@ -16,5 +16,10 @@ public class Scratch3 {
 
         // Step 2: Match the pattern against a sequence of characters using the Matcher class.
         Matcher matcher = pattern.matcher("1234 5456 8952");
+
+        /*
+        *  find() method:
+        *  This method can match a test string against a pattern even if only subsequences are matched.
+        * */
     }
 }
