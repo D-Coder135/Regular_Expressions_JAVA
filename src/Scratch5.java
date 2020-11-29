@@ -18,9 +18,13 @@ public class Scratch5 {
         Matcher matcher = pattern.matcher("1234 4465 1134");
 
         /*
-        * start() method and end() method
-        * We can find the index at which the current match is obtained by using the start() method and index past one
-        * by using the end() method.
-        * */
+         * start() method and end() method
+         * We can find the index at which the current match is obtained by using the start() method and index past one
+         * by using the end() method.
+         * */
+
+        // Loop to check how many sequence of the test string matches the regular expression.
+
+
     }
 }
